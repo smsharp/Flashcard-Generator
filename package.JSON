@@ -1,0 +1,15 @@
+{
+  "name": "Flashcard-Generator",
+  "description": "Flashcard Generator: A Basic Flashcard Application",
+  "main": "flashcard-app.js",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  },
+
+  "author": "Sara Sharp",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smsharp/Flashcard-Generator.git"
+  }
+}
